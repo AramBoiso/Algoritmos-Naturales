@@ -1,3 +1,5 @@
+#TODO'S:
+  # Contar los 1's con una REGEX.
 from random import randint
 
 def dec_to(num, sistema = 2):
